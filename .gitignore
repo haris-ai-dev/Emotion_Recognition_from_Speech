@@ -1,0 +1,4 @@
+venv/
+Data/
+data/features.npz
+__pycache__/

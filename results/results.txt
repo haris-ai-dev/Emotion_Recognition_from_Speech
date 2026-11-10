@@ -1,0 +1,3 @@
+cnn_lstm: test accuracy = 0.4208
+cnn: test accuracy = 0.5458
+lstm: test accuracy = 0.3458
